@@ -9,7 +9,7 @@ user choice is rock and computer choice is scissors
 => user wins 
 
 otherwise
-=> sadly user loses
+=> computer wins
 
 Compilation command for project: javac rockpaperscissors.java
 
