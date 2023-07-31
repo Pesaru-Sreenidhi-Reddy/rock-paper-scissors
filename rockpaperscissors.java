@@ -69,7 +69,7 @@ public class rockpaperscissors
                 }
                 else {
                     compf.setText("rock");
-                    restf.setText("Sorry, You lost");
+                    restf.setText("Computer won");
                 }
             } });
 
