@@ -1,7 +1,7 @@
 # rock-paper-scissors
  Game  rules:
 if computer and user choice is same like user choice is paper and computer choice is paper 
-=>it's a draw
+=> it's a draw
 
 otherwise if user choice is paper and computer choice is rock or
 user choice is scissors and computer choice is paper or 
@@ -12,8 +12,6 @@ otherwise
 => sadly user loses
 
 Compilation command for project: javac rockpaperscissors.java
-
-
 
 Execution command for project: java rockpaperscissors
 
