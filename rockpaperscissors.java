@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.event.*;
 import java.util.Random;
-public class rockpaperscissors
+public class Rockpaperscissors
 {
 	public static void main(String[] args) {
 	    Random rand = new Random();
