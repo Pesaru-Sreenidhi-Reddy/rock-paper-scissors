@@ -1,4 +1,5 @@
 # rock-paper-scissors
+2 players:user , computer
  Game  rules:
 if computer and user choice is same like user choice is paper and computer choice is paper 
 => it's a draw
