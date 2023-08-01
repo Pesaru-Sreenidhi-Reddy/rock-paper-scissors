@@ -87,3 +87,4 @@ public class rockpaperscissors
     }
 
 }
+/*if code is throwing X11 exception on runnning online compiler, it may because online compiler your using not supporting  GUI. So if you get X11 exception on running on online compiler, run it on your computer by downloadingthe file*/ 
